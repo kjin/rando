@@ -1,0 +1,7 @@
+{
+  "name": "cls-ah",
+  "version": "1.0.0",
+  "dependencies": {
+    "typescript": "^2.7.1"
+  }
+}
